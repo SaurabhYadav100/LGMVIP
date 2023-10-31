@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    margin:0%;
+}
+h2{
+    text-align: center;
+    background-color: aqua;
+    margin:0%;
+}
+.v{
+    border-left: 10px solid aqua;
+    height:590px;
+    margin-left: 50%;
+    position:absolute;
+}
+/*.form-group{
+    margin:60px 100px;
+}*/
+#registrationForm{
+    margin:60px 100px;
+}
+
+input{
+    border: 1px solid rgb(192, 185, 185);
+    border-radius: 5px;
+    padding:10px;
+    margin:5px;
+}
+
+#fullName{
+    margin-left:100px;
+}
+#mobile{
+    margin-left:71px;
+}
+#email{
+    margin-left:103px;
+}
+#number{
+    margin-left:80px;
+}
+#gender{
+    margin-left:87px;
+    margin-top:15px;
+}
+#gen{
+    margin-left:50px;
+}
+#skill{
+    margin-left:102px;
+    margin-top:20px;
+}
+#sk{
+    margin-left:30px;
+}
+#ski{
+    margin-left:30px;
+}
+button{
+    margin-top:50px;
+    padding:10px;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+#reg{
+    background-color: blue;
+    color: white;
+}
+#re{
+    background-color: red;
+    color:white;
+}
+#output {
+   /* display:;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;*/
+    margin-left:60%;
+    margin-top:-430px;
+    
+    
+}
+h3{
+    margin-left:140px;
+    color:red;
+    
+}
